@@ -11,7 +11,6 @@ const { handlePrint } = useVueToPrint({
   content: componentRef,
   documentTitle: 'AwesomeFileName',
   removeAfterPrint: true,
-  print: (target) => console.log(target),
 });
 // #endregion script
 </script>

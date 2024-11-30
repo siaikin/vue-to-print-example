@@ -146,19 +146,19 @@ onMounted(() => {
           <td>Video</td>
           <td>
             <video
-              src="https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+              src="https://www.w3schools.com/html/mov_bbb.mp4"
               width="200"
-            ></video>
+            />
           </td>
         </tr>
         <tr>
           <td>Video: With Poster</td>
           <td>
             <video
-              poster="https://www.videoplaceholder.com/static/ForBiggerBlazes-fdb2497966d4956ef5b7ffc22d1f1c0d.jpg"
-              src="https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4"
+              poster="https://images.freeimages.com/images/large-previews/9a9/tuscany-landscape-4-1500765.jpg"
+              src="https://www.w3schools.com/html/mov_bbb.mp4"
               width="200"
-            ></video>
+            />
           </td>
         </tr>
       </tbody>
